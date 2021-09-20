@@ -1,7 +1,7 @@
 # RailwayDatabase
 Backend services of a railway database
 
-INTRODUCTION The Railway Database management allows the passenger to check for a train from a source to a destination. Features like booking, cancellation, checking for the availability of tickets and also enquiring about the booking status are seen in this database. The aim of this project is to facilitate easy access to the train information along with their booking status and seat availability by the customer. If these records are written manually then it is prone to errors and maintenance and updation of these records become tiresome.
+INTRODUCTION :The Railway Database management allows the passenger to check for a train from a source to a destination. Features like booking, cancellation, checking for the availability of tickets and also enquiring about the booking status are seen in this database. The aim of this project is to facilitate easy access to the train information along with their booking status and seat availability by the customer. If these records are written manually then it is prone to errors and maintenance and updation of these records become tiresome.
 
 The entities present in this database are:-
 
